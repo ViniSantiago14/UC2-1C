@@ -8,3 +8,9 @@
 - Fork esse repositório e não altere no nome do repositório
 - Coloque como título o seu nome completo. Ex: # SEU NOME
 - insira os links dos trabalhos e atividades que você desenvolveu e participou durante esta UC.
+
+# Vinicius Santiago 
+
+Atividade 1: Trello 
+
+-[Grupo](link)
