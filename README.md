@@ -31,3 +31,10 @@
 
 ### Atividade 4: Github
 
+-[aulaMarkDown](https://github.com/ViniSantiago14/aulaMarkdown)
+
+-[Meu perfil Github](https://github.com/ViniSantiago14/ViniSantiago14?tab=readme-ov-file)
+
+-[Lista de comandos guia Git](https://github.com/ViniSantiago14/AV1/blob/main/vn14/guiaGit.md)
+
+-[Pesquisa Git](https://github.com/ViniSantiago14/AV1/blob/main/pesquisa-vinicius.md)
