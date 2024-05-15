@@ -18,7 +18,7 @@
 - [Individual](https://trello.com/invite/b/2COx4mHc/ATTIb601bd2c2ef66af0f22689c064d427d7169C21FD/minhas-metas)
 
 - [Análise SWOT](https://trello.com/invite/b/3dmfpsRr/ATTIe48c5da65111407e64cc543ebb225920833E6581/analise-swot)
-- 
+
 ### Atividade 2: Slies das apresentações 
 
 - [TypeScript](https://www.canva.com/design/DAGEjUJ54Pc/feL3I6NAOpKGJy6lopU_aQ/edit?utm_content=DAGEjUJ54Pc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
