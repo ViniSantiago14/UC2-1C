@@ -40,3 +40,7 @@
 - [Lista de comandos guia Git](https://github.com/ViniSantiago14/AV1/blob/main/vn14/guiaGit.md)
 
 - [Pesquisa Git](https://github.com/ViniSantiago14/AV1/blob/main/pesquisa-vinicius.md)
+
+### Atividade 5: Docs
+
+- [Emprego dos Sonhos](https://docs.google.com/document/d/1G4eaAhZLJ77rg8h2RZTnlnVHMnh4xsQHepys4wIP70g/edit?usp=sharing?)
